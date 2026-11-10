@@ -175,23 +175,27 @@ I'm interested in collaborating on:
 
 ---
 
-## <span style="color:#A3FF12;">📊 GITHUB STATISTICS</span>
+
+
+<h2>📊 GITHUB STATISTICS</h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rudzani01&show_icons=true&hide_border=true&bg_color=000000&title_color=A3FF12&icon_color=A3FF12&text_color=FFFFFF&ring_color=A3FF12" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudzani01&layout=compact&hide_border=true&bg_color=000000&title_color=A3FF12&text_color=FFFFFF" />
-
-<img src="https://streak-stats.demolab.com?user=Rudzani01&hide_border=true&background=000000&ring=A3FF12&fire=A3FF12&currStreakLabel=A3FF12&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <img
+    src="https://streak-stats.demolab.com?user=Rudzani01&hide_border=true&background=000000&ring=A3FF12&fire=A3FF12&currStreakLabel=A3FF12&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    alt="Rudzani01 GitHub Streak Statistics"
+    width="500"
+  />
 
 </div>
+
+
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Animated technology coding GIF">
+
 
 ### <span style="color:#A3FF12;">BUILD. INNOVATE. SECURE. DEPLOY.</span>
 
