@@ -1,162 +1,202 @@
-## Hi there 👋, I'm Rudzani Allan Khauli
+<!--
+  RUDZANI ALLAN KHAULI | GITHUB PROFILE
+  Theme: Black & Lime Green (#A3FF12)
+-->
 
-### 💻 Software Engineering | Technology Graduate Candidate
+<div align="center">
 
-🎓 Information Technology graduate and BTech IT (Software Development) student at **Nelson Mandela University**, South Africa.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Animated coding illustration">
 
-I'm passionate about building software solutions, solving real-world problems and exploring emerging technologies.
+# <span style="color:#A3FF12;">RUDZANI ALLAN KHAULI</span>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rudzani-khauli-b7475a30b)
-[![GitHub](https://img.shields.io/badge/GitHub-Rudzani01-black?style=flat&logo=github)](https://github.com/Rudzani01)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:allankhauli@gmail.com)
+### 💻 SOFTWARE ENGINEERING | TECHNOLOGY GRADUATE CANDIDATE
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A3FF12&center=true&vCenter=true&width=650&lines=Software+Developer;C%23+%7C+.NET+%7C+Java;Web+Application+Developer;Aspiring+Cloud+%26+Cybersecurity+Professional;Building+Ideas+Into+Technology" alt="Typing SVG">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-A3FF12?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rudzani-khauli-b7475a30b)
+[![GitHub](https://img.shields.io/badge/GITHUB-RUDZANI01-A3FF12?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Rudzani01)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-A3FF12?style=for-the-badge&logo=gmail&logoColor=black)](mailto:allankhauli@gmail.com)
+
+📍 Gqeberha, Eastern Cape, South Africa
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## <span style="color:#A3FF12;">👨‍💻 ABOUT ME</span>
 
-- 🎓 Completed National Diploma in Information Technology (Software Development).
-- 📚 Currently pursuing BTech in Information Technology (Software Development) at Nelson Mandela University.
-- 💼 Former Java Software Developer Intern at HexSoftware.
-- 🚀 Working on the MthengiHUB student marketplace concept.
-- 🏆 NMU Africa Hub Accelerator 2026 – Selected among the Top 50.
-- 💡 MICT SETA Hackathon participant at Propella Business Incubator.
+I am an Information Technology graduate with a completed **National Diploma in IT (Software Development)** and currently pursuing a **Bachelor of Technology (BTech) in IT (Software Development)** at Nelson Mandela University, expected to complete in 2027.
+
+I am passionate about software engineering, application development, cybersecurity, artificial intelligence and cloud computing.
+
+- 🎓 National Diploma in IT (Software Development) – Completed.
+- 📚 Currently pursuing BTech IT (Software Development).
+- 💼 Java Software Developer Intern – HexSoftware.
+- 🚀 Developing the MthengiHUB student marketplace concept.
+- 🏆 NMU Africa Hub Accelerator 2026 – Top 50 selection.
+- 💡 MICT SETA Hackathon participant.
 - 🤝 NMU Computer Society – Co-Marketing Officer / Executive Secretary.
-- 🌍 Based in Gqeberha, Eastern Cape, South Africa.
 
-### 🔭 What I'm Working On
+---
 
-- Developing my software engineering skills through academic and personal projects.
+## <span style="color:#A3FF12;">🔭 WHAT I'M WORKING ON</span>
+
+- Building software applications using C# and .NET.
+- Developing my backend and database development skills.
 - Exploring the MthengiHUB student marketplace concept.
-- Building web applications and strengthening backend development skills.
-- Learning about secure application development and cloud technologies.
+- Learning secure software development practices.
+- Exploring cloud computing and AI integration.
 
-### 🌱 Currently Learning
+## <span style="color:#A3FF12;">🌱 CURRENTLY LEARNING</span>
 
-- ☁️ AWS Cloud Computing – AWS Cloud Practitioner.
+- ☁️ AWS Cloud Computing – Cloud Practitioner.
 - 🔷 Microsoft Azure – AZ-900.
 - 🔐 Application Security and Cybersecurity.
-- 🤖 Artificial Intelligence and intelligent software solutions.
+- 🤖 Artificial Intelligence.
 - 🏗️ Software Architecture and Design Patterns.
 
 ---
 
-### 🛠️ Technical Skills
+## <span style="color:#A3FF12;">🛠️ TECH STACK</span>
 
-**Programming Languages**
+### Programming Languages
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=A3FF12)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=A3FF12)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=A3FF12)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=A3FF12)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=A3FF12)
 
-**Frameworks and Technologies**
+### Frameworks & Technologies
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=A3FF12)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000000?style=for-the-badge&logo=dotnet&logoColor=A3FF12)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=A3FF12)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=A3FF12)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=A3FF12)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=A3FF12)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=A3FF12)
 
-**Databases**
+### Databases
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=A3FF12)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=A3FF12)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=A3FF12)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=A3FF12)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=A3FF12)
 
-**Tools and Platforms**
+### Tools & Cloud
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=A3FF12)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A3FF12)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=A3FF12)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=A3FF12)
+![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=A3FF12)
 
 ---
 
-### 🚀 Featured Projects
+## <span style="color:#A3FF12;">🚀 FEATURED PROJECTS</span>
 
-**🏥 NMB-HLabSys – Haematology Laboratory Management System**
+### 🏥 NMB-HLabSys – Haematology Laboratory Management System
 
-- Developed as an academic software development project.
-- Technologies: C#, ASP.NET MVC, Entity Framework Core and SQL Server.
-- Includes role-based workflows for doctors, technicians and administrators.
-- Supports patient management, laboratory test requests and sample tracking.
+**Technologies:** C#, ASP.NET MVC, Entity Framework Core, SQL Server.
 
-**📞 NMU Student Call Centre**
+- Role-based workflows for doctors, technicians and administrators.
+- Patient and laboratory test-request management.
+- Sample tracking and laboratory workflow statuses.
+- Database integration and application validation.
 
-- C# Windows Forms application developed for an academic project.
+### 📞 NMU Student Call Centre
+
+**Technologies:** C#, Windows Forms, Database Integration.
+
+- Desktop application developed for an academic project.
 - Applies State, Iterator, Composite and Proxy design patterns.
-- Focuses on object-oriented programming and software design principles.
+- Focuses on object-oriented programming and software design.
 
-**🛒 MthengiHUB – Student Marketplace**
+### 🛒 MthengiHUB – Student Marketplace
 
-- Student marketplace concept designed to connect students with products, services and opportunities.
-- Proposed technologies: ASP.NET Web API and PostgreSQL.
-- Planned features include listings, search, messaging, secure authentication and AI-driven recommendations.
+**Proposed technologies:** ASP.NET Web API, PostgreSQL.
 
----
+A student marketplace concept designed to connect students with products, services and opportunities.
 
-### 💼 Professional Experience
-
-- **Java Software Developer Intern** – HexSoftware | 2025
-- **Field Services Representative** – Heineken Field Services via Smollan | November 2025 – January 2026
-- **Sales Assistant** – PEP Home | June 2026 – Present
-
-### 🏆 Achievements & Leadership
-
-- NMU Africa Hub Accelerator 2026 – Top 50 selection.
-- MICT SETA Hackathon – Propella Business Incubator, March 2026.
-- NMU Computer Society – Co-Marketing Officer / Executive Secretary.
+Planned features:
+- Secure authentication and role-based access.
+- Product and service listings.
+- Search and filtering.
+- Messaging and user interaction.
+- Future AI-driven recommendations and fraud detection.
 
 ---
 
-### 👯 Looking to Collaborate On
+## <span style="color:#A3FF12;">💼 PROFESSIONAL EXPERIENCE</span>
 
-- Software development projects.
+| Position | Organisation | Period |
+|---|---|---|
+| Java Software Developer Intern | HexSoftware | 2025 |
+| Field Services Representative | Heineken Field Services via Smollan | Nov 2025 – Jan 2026 |
+| Sales Assistant | PEP Home | June 2026 – Present |
+
+---
+
+## <span style="color:#A3FF12;">🏆 ACHIEVEMENTS & LEADERSHIP</span>
+
+- 🥇 NMU Africa Hub Accelerator 2026 – Top 50 selection.
+- 🚀 MICT SETA Hackathon – Propella Business Incubator, March 2026.
+- 🤝 NMU Computer Society – Co-Marketing Officer / Executive Secretary.
+
+## <span style="color:#A3FF12;">📜 CERTIFICATIONS & LEARNING</span>
+
+- ✅ Introduction to AWS Cloud – Completed.
+- 📖 AWS Certified Cloud Practitioner – In Progress.
+- 📖 Microsoft Azure Fundamentals (AZ-900) – In Progress.
+
+---
+
+## <span style="color:#A3FF12;">👯 LET'S COLLABORATE</span>
+
+I'm interested in collaborating on:
+
+- Software engineering projects.
 - C# and .NET applications.
-- Java and Spring Boot projects.
+- Java and Spring Boot development.
 - Web application development.
 - Cybersecurity and AI-driven solutions.
 - Open-source projects and technology innovation.
 
-### 🤔 Looking for Help With
-
-- Cloud architecture and deployment.
-- Advanced software engineering practices.
-- AI integration into practical applications.
-- Cybersecurity and secure software development.
-
-### 💬 Ask Me About
+## <span style="color:#A3FF12;">💬 ASK ME ABOUT</span>
 
 - C# and object-oriented programming.
 - ASP.NET Core and MVC.
 - Java programming.
-- Relational databases and SQL.
+- SQL and relational databases.
 - Software design patterns.
 - Student technology entrepreneurship.
 
-### 📫 How to Reach Me
+---
 
-- **Email:** allankhauli@gmail.com
-- **LinkedIn:** [Rudzani Allan Khauli](https://www.linkedin.com/in/rudzani-khauli-b7475a30b)
-- **GitHub:** [Rudzani01](https://github.com/Rudzani01)
-- **Location:** Gqeberha, Eastern Cape, South Africa.
+## <span style="color:#A3FF12;">📊 GITHUB STATISTICS</span>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rudzani01&show_icons=true&hide_border=true&bg_color=000000&title_color=A3FF12&icon_color=A3FF12&text_color=FFFFFF&ring_color=A3FF12" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudzani01&layout=compact&hide_border=true&bg_color=000000&title_color=A3FF12&text_color=FFFFFF" />
+
+<img src="https://streak-stats.demolab.com?user=Rudzani01&hide_border=true&background=000000&ring=A3FF12&fire=A3FF12&currStreakLabel=A3FF12&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
 
 ---
 
-### 📊 GitHub Statistics
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudzani01&show_icons=true&theme=github_dark&hide_border=true)
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Animated technology coding GIF">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudzani01&layout=compact&theme=github_dark&hide_border=true)
+### <span style="color:#A3FF12;">BUILD. INNOVATE. SECURE. DEPLOY.</span>
 
----
+*"Building technology, solving problems, and creating opportunities through innovation."*
 
-⚡ **Fun fact:** I enjoy turning ideas into practical technology solutions and exploring how software can create opportunities for students and communities.
+**Thanks for visiting my profile!** ⭐
 
-*"Building technology, solving problems, and creating opportunities through innovation."* 🚀
+</div>
